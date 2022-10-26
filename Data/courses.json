@@ -1,0 +1,128 @@
+[
+    {
+        "_id": "63592dac94f1ac6439052a93",
+        "category_id": "4",
+        "title": "A Flexible Data Science Degree. Dive deep into DS",
+        "details": "The Manchester Master of Applied Data Science will help you learn how to use data to improve outcomes and achieve ambitious goals. Join the next generation of data scientists with a hands-on degree delivered online.",
+        "thumbnail_url": "../Assets/category-four/A Flexible Data Science Degree. Dive deep into DS.jpg"
+    },
+    {
+        "_id": "63592dac19738615853825fb",
+        "category_id": "5",
+        "title": "iPhone Application Development",
+        "details": "Apple's smartphone OS running on iPhone, iPad, iPod Touch hardware is iOS. For these computers, Apple offers tools and services for developing iOS apps and accessories.You can use React Native (JavaScript) or Xamarin (C# & F#) as an iOS developer to programme in native languages like Swift or Objective-C or build native cross-platform applications.In this article, we'll explore how to build iOS apps. We're going to look at how you can learn to develop an iOS application and play with existing apps.As with learning something new, learning to build iOS is difficult. Although, It is enjoyable, exciting, and satisfying!",
+        "thumbnail_url": "../Assets/category-five/iPhone Application Development.jpg"
+    },
+    {
+        "_id": "63592dac94237cb8dd3846b4",
+        "category_id": "3",
+        "title": "JavaScript Algorithms and Data Structures",
+        "details": "Data structures are a method of storing and organizing data for efficient access and manipulation by all users and devices. Some common data structures that are used in JavaScript include stacks, queues, linked lists, sets, hash tables and trees, each of which makes it possible to call upon data existing in a specific state and use it in several ways.Data structures allow algorithms to use data stored in the computer to execute a specific task laid out in a step-by-step manner by the algorithm. Algorithms can be written using any programming language, with JavaScript being no exception, allowing for client-side functionality such as sorting and searching.",
+        "thumbnail_url": "../Assets/category-three/JavaScript Algorithms and Data Structures.png"
+    },
+    {
+        "_id": "63592dac73ecc0df993414d7",
+        "category_id": "2",
+        "title": "Building Web Applications in PHP",
+        "details": "In this course, you'll explore the basic structure of a web application, and how a web browser interacts with a web server. You'll be introduced to the request/response cycle, including GET/POST/Redirect. You'll also gain an introductory understanding of Hypertext Markup Language (HTML), as well as the basic syntax and data structures of the PHP language, variables, logic, iteration, arrays, error handling, and superglobal variables, among other elements. An introduction to Cascading Style Sheets (CSS) will allow you to style markup for webpages. Lastly, you'll gain the skills and knowledge to install and use an integrated PHP/MySQL environment like XAMPP or MAMP.",
+        "thumbnail_url": "../Assets/category-two/Building Web Applications in PHP.jpg"
+    },
+    {
+        "_id": "63592dac46b6854c6fcd8d9d",
+        "category_id": "6",
+        "title": "Introduction to video game development with Unity",
+        "details": "Learn to develop multiplatform videogames using one of the most popular tools on the market, the Unity game engine.",
+        "thumbnail_url": "../Assets/category-six/Introduction to video game development with Unity.jpg"
+    },
+    {
+        "_id": "63592dac5dedeb04b9db674c",
+        "category_id": "5",
+        "title": "Android App Development",
+        "details": "Android is an open source and Linux-based operating system for mobile devices such as smartphones and tablet computers. Android was developed by the Open Handset Alliance, led by Google, and other companies. This tutorial will teach you basic Android programming and will also take you through some advance concepts related to Android application development.",
+        "thumbnail_url": "../Assets/category-five/Android App Development.png"
+    },
+    {
+        "_id": "63592dac9100f33c313b7afe",
+        "category_id": "6",
+        "title": "Character Design for Video Games",
+        "details": "The characters design is a phase in video game production, through which a game designer creates the entire concept, style, and artwork of a character from scratch. The process is very complex, and usually begins with the artist analysing the character's personality traits in order to bring him to life.",
+        "thumbnail_url": "../Assets/category-six/Character Design for Video Games.jpg"
+    },
+    {
+        "_id": "63592dacd3e480080c3c94f0",
+        "category_id": "7",
+        "title": "Introduction to Cyber Security",
+        "details": "Cyber Security is a process that’s designed to protect networks and devices from external threats. Businesses typically employ Cyber Security professionals to protect their confidential information, maintain employee productivity, and enhance customer confidence in products and services. The world of Cyber Security revolves around the industry standard of confidentiality, integrity, and availability, or CIA. Privacy means data can be accessed only by authorized parties; integrity means information can be added, altered, or removed only by authorized users; and availability means systems, functions, and data must be available on-demand according to agreed-upon parameters.The main element of Cyber Security is the use of authentication mechanisms. For example, a user name identifies an account that a user wants to access, while a password is a mechanism that proves the user is who he claims to be.",
+        "thumbnail_url": "../Assets/category-seven/Introduction to Cyber Security.png"
+    },
+    {
+        "_id": "63592dac3fcafd4fef4e40ee",
+        "category_id": "1",
+        "title": "Python Data Structures",
+        "details": "This tutorial is a beginner-friendly guide for learning data structures and algorithms using Python. In this article, we will discuss the in-built data structures such as lists, tuples, dictionaries, etc, and some user-defined data structures such as linked lists, trees, graphs, etc, and traversal as well as searching and sorting algorithms with the help of good and well-explained examples and practice questions.",
+        "thumbnail_url": "../Assets/category-one/Python Data Structures.png"
+    },
+    {
+        "_id": "63592daca86fd53bb325f39f",
+        "category_id": "7",
+        "title": "Web Security",
+        "details": "Web security refers to protecting networks and computer systems from damage to or the theft of software, hardware, or data. It includes protecting computer systems from misdirecting or disrupting the services they are designed to provide.Web security is synonymous with cybersecurity and also covers website security, which involves protecting websites from attacks. It includes cloud security and web application security, which defend cloud services and web-based applications, respectively. Protection of a virtual private network (VPN) also falls under the web security umbrella.Web security is crucial to the smooth operation of any business that uses computers. If a website is hacked or hackers are able to manipulate your systems or software, your website—and even your entire network—can be brought down, halting business operations.",
+        "thumbnail_url": "../Assets/category-seven/Web Security.png"
+    },
+    {
+        "_id": "63592dacc38af179aa537bc6",
+        "category_id": "3",
+        "title": "Interactivity with JavaScript",
+        "details": "JavaScript allows us to modify just about every aspect of the page: content, styling, and its response to user interaction. However, JavaScript can also block DOM construction and delay when the page is rendered. To deliver optimal performance, make your JavaScript async and eliminate any unnecessary JavaScript from the critical rendering path.",
+        "thumbnail_url": "../Assets/category-three/Interactivity with JavaScript.png"
+    },
+    {
+        "_id": "63592dac3563e1bcc34aef18",
+        "category_id": "6",
+        "title": "Computer Science for Game Development",
+        "details": "As computer scientists, students will be engaged in building and developing games and playable media experiences. This requires courses in computer science with some specialized game technology and design courses.",
+        "thumbnail_url": "../Assets/category-six/Computer Science for Game Development.jpg"
+    },
+    {
+        "_id": "63592dacc9a5b741f4943fdc",
+        "category_id": "3",
+        "title": "Computational Thinking with Javascript",
+        "details": "Before diving deep into learning how to code, it’s important to understand what computational thinking is. First, remember that humans and computers don’t think or act in the same way. Keeping that in mind, you will have to learn how a computer works. In this video, you’ll get an overview of computational thinking with some real-world examples of how it works so that you can start to understand how a computer thinks.",
+        "thumbnail_url": "../Assets/category-three/Computational Thinking with Javascript.png"
+    },
+    {
+        "_id": "63592dac346b5f341fcc6f3c",
+        "category_id": "4",
+        "title": "Data Science and Agile Systems for Product Management",
+        "details": "Deliver faster, higher quality, and fault-tolerant products regardless of industry using the latest in Agile, DevOps, and Data Science.",
+        "thumbnail_url": "../Assets/category-four/Data Science and Agile Systems for Product Management.jpg"
+    },
+    {
+        "_id": "63592dacfc9a306fb20398ba",
+        "category_id": "3",
+        "title": "Programming Foundations with JavaScript, HTML and CSS",
+        "details": "At the Programming Foundations with JavaScript, HTML and CSS course offered by Coursera in partnership with Duke University, you learn foundational programming concepts (e.g., functions, for loops, conditional statements) and how to solve problems like a programmer.",
+        "thumbnail_url": "../Assets/category-three/Programming Foundations with JavaScript, HTML and CSS.png"
+    },
+    {
+        "_id": "63592dac887ad73f0b01210f",
+        "category_id": "1",
+        "title": "Using Python to Access Web Data",
+        "details": "This course will show how one can treat the Internet as a source of data. We will scrape, parse, and read web data as well as access data using web APIs. We will work with HTML, XML, and JSON data formats in Python. This course will cover Chapters 11-13 of the textbook “Python for Everybody”. To succeed in this course, you should be familiar with the material covered in Chapters 1-10 of the textbook and the first two courses in this specialization. These topics include variables and expressions, conditional execution (loops, branching, and try/except), functions, Python data structures (strings, lists, dictionaries, and tuples), and manipulating files. This course covers Python 3.",
+        "thumbnail_url": "../Assets/category-one/Using Python to Access Web Data.png"
+    },
+    {
+        "_id": "63592dac23d5935b3190d773",
+        "category_id": "7",
+        "title": "Hacking and Patching",
+        "details": "In this MOOC, you will learn how to hack web apps with command injection vulnerabilities in a web site of your AWS Linux instance. You will learn how to search valuable information on a typical Linux systems with LAMP services, and deposit and hide Trojans for future exploitation. You will learn how to patch these web apps with input validation using regular expression. You will learn a security design pattern to avoid introducing injection vulnerabilities by input validation and replacing generic system calls with specific function calls. You will learn how to hack web apps with SQL injection vulnerabilities and retrieve user profile information and passwords. You will learn how to patch them with input validation and SQL parameter binding. You will learn the hacking methodology, Nessus tool for scanning vulnerabilities, Kali Linux for penetration testing, and Metasploit Framework for gaining access to vulnerable Windows Systems, deploying keylogger, and perform Remote VNC server injection. You will learn security in memory systems and virtual memory layout, and understand buffer overflow attacks and their defenses. You will learn how to clone a Kali instance with AWS P2 GPU support and perform hashcat password cracking using dictionary attacks and known pattern mask attacks.",
+        "thumbnail_url": "../Assets/category-seven/Hacking and Patching.jpg"
+    },
+    {
+        "_id": "63592dac9c90fc0722054ec0",
+        "category_id": "1",
+        "title": "Using Databases with Python",
+        "details": "Python being a high-level language provides support for various databases. We can connect and run queries for a particular database using Python and without writing raw queries in the terminal or shell of that particular database, we just need to have that database installed in our system.In this tutorial, we will discuss how to Python with the most commonly used relational databases such as MySQL, SQLite, NoSQL databases like MongoDB and we will also discuss how to deal with JSON using Python with the help of good examples.",
+        "thumbnail_url": "../Assets/category-one/Using Databases with Python.png"
+    }
+]

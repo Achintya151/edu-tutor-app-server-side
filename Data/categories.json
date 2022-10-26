@@ -1,34 +1,34 @@
 [
     {
-        "id": "01",
+        "id": "1",
         "name": "Python Courses"
     },
     {
-        "id": "02",
+        "id": "2",
         "name": "PHP Courses"
     },
     {
-        "id": "03",
+        "id": "3",
         "name": "Javascript Courses"
     },
     {
-        "id": "04",
+        "id": "4",
         "name": "Software Development Courses"
     },
     {
-        "id": "05",
+        "id": "5",
         "name": "Mobile Development Courses"
     },
     {
-        "id": "06",
+        "id": "6",
         "name": "Game Development Courses"
     },
     {
-        "id": "07",
+        "id": "7",
         "name": "Cybersecurity Courses"
     },
     {
-        "id": "08",
+        "id": "8",
         "name": "All Courses"
     }
 ]
